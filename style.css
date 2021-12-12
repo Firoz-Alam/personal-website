@@ -1,0 +1,122 @@
+body{
+    font-family: 'Rokkitt', serif;
+}
+
+.header-name{
+    font-family: 'Bakbak One', cursive;
+    font-size: 50px;
+    color: red;
+}
+.header-text{
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+}
+
+
+.header-container{
+   background-image: url(images/header-bg.png);
+   background-position: center;
+   background-size: cover;
+   height: 550px;
+   
+    
+}
+
+.half-width{
+    width: 35%;
+    float: left;
+    margin-bottom: 15px;
+    margin-left: 5%;
+    padding-left: 2%;
+    position: relative;
+    
+    
+}
+.peter-img{
+    width: 90%;
+    height: 80%;
+}
+
+.one{
+    margin-right: 50px;
+}
+
+.biography-container{
+    background-image: url(images/biography-bg.png);
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+}
+
+.text-wrap{
+    position: absolute;
+    top: 100px;
+    left: 150px;
+}
+
+.button-style{
+    color: ivory;
+    background-image: linear-gradient(45deg,lightSalmon,red);
+    padding: 10px 40px;
+    margin-top: 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.two{
+    margin-top: 55px;
+    
+  
+}
+.text-wrap2{
+    position: absolute;
+    top: 150px;
+    left: 80px;
+}
+.ancor{
+    margin-top: 30px;
+    padding-top: 20px;
+}
+.latest-work{
+    height: 500px;
+    background-image: url(images/latest-work-bg.png);
+    background-position: center;
+    background-size: cover;
+}
+.latest-work h2{
+    text-align: center;
+    padding-top: 20px;
+}
+
+.half-three{
+    width: 30%;
+    float: left;
+    margin-left: 3%;
+}
+.l-w-img{
+    width: 90%;
+    height: 60%;
+}
+.footer-container{
+    height: 500px;
+    background-image: url(images/footer-bg.png);
+    background-position: center;
+    background-size: cover;
+}
+.footer-text{
+    text-align: center;
+    position: relative;
+}
+.footer-text h2{
+    font-size: 40px;
+}
+.meassage{
+    background-image: linear-gradient(45deg,lightSalmon,red);
+    padding: 20px 30px;
+    position: absolute;
+    width: 50%;
+    margin-top: 20px;
+    color: lightcyan;
+    left: 25%;
+    border-radius: 5px;
+}
